@@ -1,7 +1,6 @@
 # Dynamic routing example
 
-See the blog post here:
-[link](#)
+See the blog post here: [link](http://movio.co/blog/composing-endpoints-with-spray)
 
 ## Running
 
